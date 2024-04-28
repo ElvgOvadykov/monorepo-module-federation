@@ -2,8 +2,9 @@
   "name": "host",
   "version": "1.0.0",
   "dependencies": {
-    "@packages/shared": "*",
+    "@module-federation/enhanced": "^0.1.10",
     "@packages/build-config": "*",
+    "@packages/shared": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.0"
